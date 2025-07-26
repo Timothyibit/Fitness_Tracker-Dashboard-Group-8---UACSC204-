@@ -162,7 +162,7 @@ class Navbar extends React.Component {
                 {/* HOMEPAGE LINK - NOW A BUTTON */}
                 <Button
                   style={{ textDecoration: 'none', color: 'white' }}
-                  href="http://localhost:8080" // Ensure this is the correct port for your homepage
+                  href="https://fitness-tracker-homepage-group-8-uacsc-204-ognw963ny.vercel.app" // Ensure this is the correct port for your homepage
                   color="inherit" // This makes the button's text white (inherits from AppBar)
                 >
                   Homepage
